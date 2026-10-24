@@ -148,7 +148,7 @@ I'm open to:
 - GitHub: [@ahmadmusaalgalib](https://github.com/ahmadmusaalgalib)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/ahmed-musa-al-galib-0234642b9/)
 - Portfolio: *add your link*
-- Email: *add your email*
+- Email: [ahmed musa al galib](ahmedmusaalgalib@gmail.com)
 
 ---
 
