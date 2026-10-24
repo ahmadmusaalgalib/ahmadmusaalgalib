@@ -146,7 +146,7 @@ I'm open to:
 ## 📫 Connect With Me
 
 - GitHub: [@ahmadmusaalgalib](https://github.com/ahmadmusaalgalib)
-- LinkedIn: [@Linkedin](https://www.linkedin.com/in/ahmed-musa-al-galib-0234642b9/)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/ahmed-musa-al-galib-0234642b9/)
 - Portfolio: *add your link*
 - Email: *add your email*
 
